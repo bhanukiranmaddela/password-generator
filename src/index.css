@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  --card-background:#24232a;
+  --copy-icon-color:#82a68a;
+  --font-color: #d8d7de;
 }
 
 code {
